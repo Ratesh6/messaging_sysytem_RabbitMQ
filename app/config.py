@@ -1,0 +1,8 @@
+# app/config.py
+
+BROKER_URL = "amqp://guest:guest@localhost:5672//"  # RabbitMQ
+
+SMTP_HOST = "smtp.gmail.com"
+SMTP_PORT = 587
+SMTP_USER = "rateshk123@gmail.com"
+SMTP_PASS = "vihi aqjd dydm ogcl"  
